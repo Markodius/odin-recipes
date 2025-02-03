@@ -1,2 +1,2 @@
 # odin-recipes
-Completed tusk for odin-project
+Completed task for odin-project.
